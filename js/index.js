@@ -57,7 +57,7 @@ header.classList.toggle('sticky',window .scrollY > 100);
          //  Multiple Text  (Typed js)//
 
          const typed = new Typed ('.multiple-text',{
-            strings : ['Full Stack Web Developar','Oracle Peoplesoft Developer'],
+            strings : ['Full Stack Web Developer','Oracle Peoplesoft Developer'],
             typeSpeed : 100,
             backSpeed : 100,
             backDelay : 1000,
