@@ -437,7 +437,7 @@ html{
          left:0 ;
          width: 100%;
          padding: 1rem 3%;
-         background-color: var(--bg-color);
+         background-color: var(--second-bg-color));
          border-top: .1rem solid rgb (0,0,0,.2);
          box-shadow: 0 .5rem 1rem rgb(0,0,0,.2);
          display: none;
